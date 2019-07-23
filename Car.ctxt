@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\n\ Class\ that\ models\ objects\ of\ type\ "car"\n\ \n\ @Java\ MOOC\ team,\ UC3M\n\ @1.0\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Method\ that\ is\ being\ always\ invoked\ when\ the\ program\ is\ running\n
+comment2.params=
+comment2.target=void\ moveLeft()
+comment2.text=\n\ Move\ the\ car\ forward\ every\ time\ the\ key\ "up"\ is\ pressed\n
+comment3.params=
+comment3.target=void\ moveRight()
+comment3.text=\n\ Move\ the\ car\ back\ every\ time\ the\ key\ "down"\ is\ pressed\n
+comment4.params=
+comment4.target=void\ turnHeadlightsOn()
+comment4.text=\n\ Turn\ the\ headlights\ on\ when\ the\ key\ "space"\ is\ pressed.\n\ The\ attribute\ isKeyDown\ is\ used\ to\ prevent\ setting\ the\ headlights\ on\ and\ off\ when\ the\ key\ "space"\ is\ pressed\ (and\ remains\ pressed\ for\ some\ time)\n
+comment5.params=
+comment5.target=void\ turnHeadlightsOff()
+comment5.text=\n\ Turn\ the\ headlights\ off\ when\ the\ key\ "space"\ is\ pressed.\n\ The\ attribute\ isKeyDown\ is\ used\ to\ prevent\ setting\ the\ headlights\ off\ and\ on\ when\ the\ key\ "space"\ is\ pressed\ (and\ remains\ pressed\ for\ some\ time)\n
+numComments=6
